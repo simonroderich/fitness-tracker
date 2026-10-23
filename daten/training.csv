@@ -470,3 +470,12 @@ Datum,Eintrag,Einheit,Uebung,Satz,Wdh,Gewicht kg,Last gesamt kg,RPE,e1RM,Gym,Ger
 2026-10-21,2026-10-21 Trizeps Pushdown gerade Stange Satz 1,,Trizeps Pushdown gerade Stange,1,15,30,,,45,Schwester,Kabelzug,,,,"30 kg. Simon: 'nach unten an der geraden Stange am Seil' - gerade Stange als Griffstueck ausdruecklich genannt, 'Seil' als Kabelzug gelesen. Abendeinheit bei der Schwester. Unterarme danach trainiert, von Simon bewusst nicht gezaehlt.",4001e823558d81168ba1fb6e02e1dc6f
 2026-10-21,2026-10-21 Trizeps Pushdown gerade Stange Satz 2,,Trizeps Pushdown gerade Stange,2,13,30,,,43,Schwester,Kabelzug,,,,,4001e823558d81d8bfabd57a9410d973
 2026-10-21,2026-10-21 Trizeps Pushdown gerade Stange Satz 3,,Trizeps Pushdown gerade Stange,3,12,30,,,42,Schwester,Kabelzug,,,,,4001e823558d811e9a25ea53113c8dc2
+2026-10-23,2026-10-23 Shrugs Maschine Satz 1,,Shrugs Maschine,1,,45,,,,Freundin,Maschine,,,,"45 kg pro Seite, drei Saetze, Wdh nicht genannt - Volumenzeilen ohne e1RM. Zweite Einheit dieser Reihe (erste 21.10. mit 35 kg), damit bleibt der eigene Name nach REGELN v1.23.",
+2026-10-23,2026-10-23 Shrugs Maschine Satz 2,,Shrugs Maschine,2,,45,,,,Freundin,Maschine,,,,,
+2026-10-23,2026-10-23 Shrugs Maschine Satz 3,,Shrugs Maschine,3,,45,,,,Freundin,Maschine,,,,,
+2026-10-23,2026-10-23 Seitheben Kurzhantel Satz 1,,Seitheben Kurzhantel,1,13,6.5,,,9.5,Freundin,Kurzhantel,,,,"6,5 kg pro Hantel laut Simon (bisherige Reihe 6,25 kg). Rueckfrage offen, ob 6,25 gemeint war - bei Bestaetigung Gewicht und e1RM korrigieren.",
+2026-10-23,2026-10-23 Seitheben Kurzhantel Satz 2,,Seitheben Kurzhantel,2,9,6.5,,,8.5,Freundin,Kurzhantel,,,,,
+2026-10-23,2026-10-23 Seitheben Kurzhantel Satz 3,,Seitheben Kurzhantel,3,8,6.5,,,8.0,Freundin,Kurzhantel,,,,,
+2026-10-23,2026-10-23 Bizeps Curls SZ-Stange Satz 1,,Bizeps Curls SZ-Stange,1,15,11.25,,,17.0,Freundin,SZ-Stange,,,,"11,25 kg pro Seite.",
+2026-10-23,2026-10-23 Bizeps Curls SZ-Stange Satz 2,,Bizeps Curls SZ-Stange,2,14,11.25,,,16.5,Freundin,SZ-Stange,,,,,
+2026-10-23,2026-10-23 Bizeps Curls SZ-Stange Satz 3,,Bizeps Curls SZ-Stange,3,13,11.25,,,16.0,Freundin,SZ-Stange,,,,,

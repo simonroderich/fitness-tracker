@@ -1444,9 +1444,14 @@ drei Reviews als unerledigt gemeldet, obwohl der verlangte Lastsprung
   Tabellen.** Alles, was in Notion an SQL-Grenzen scheiterte (100 Zeilen pro
   Abfrage, eine Tabelle pro Abfrage, Workspace-Kontingent), entfällt. Joins
   über Tabellen sind normales pandas.
-- **Schreiben mit dem `csv`-Modul** (`csv.writer(..., lineterminator="\n")`
+- **Schreiben mit dem `csv`-Modul** (`csv.writer(..., lineterminator="\r\n")`
   im Anhänge-Modus `"a"`), nie mit `echo` oder Textersetzung — Notizen
   enthalten Kommas, Zeilenumbrüche und Anführungszeichen.
+  **Alle CSVs in `daten/` haben Windows-Zeilenenden (CRLF).** Mit `"\n"`
+  entstehen gemischte Zeilenenden, und ein späteres Neuschreiben der ganzen
+  Datei erzeugt einen Diff über jede Zeile. *Anlass 24.10.2026: die Regel
+  stand hier bis v1.25 falsch mit `"\n"`, 17 Zeilen vom 22.–24.10. wurden
+  so angehängt und am selben Tag auf CRLF vereinheitlicht.*
 - **Checkbox `Geschaetzt`** in `ernaehrung.csv` steht als `ja` / `nein`
   (in Notion `__YES__` / `__NO__`).
 - **`notion_id`** ist bei allen Zeilen aus Notion die Seiten-ID der alten
@@ -1529,6 +1534,7 @@ gehört dann in die offenen Punkte von `STAND.md`.
 
 | Datum | Version | Änderung |
 |---|---|---|
+| 2026-10-24 | 1.26 | §11: Zeilenende beim Schreiben ist CRLF (`lineterminator="\r\n"`), nicht `"\n"` — die Dateien waren immer CRLF, die alte Angabe hatte gemischte Zeilenenden erzeugt. 17 Zeilen vom 22.–24.10. vereinheitlicht, inhaltlich unverändert. |
 | 2026-10-21 | 1.25 | **Umzug von Notion in das GitHub-Repo `simonroderich/fitness-tracker`** (Entscheidung Simon: Notion zu langsam). Alle sechs Tabellen vollständig als CSV nach `daten/` übernommen (Training 471, Ernährung 400, Gewicht 50, Merkzettel 38, Festwerte 16, Auswertungen 5 Zeilen; Zählung gegen Notion geprüft), die fünf Review-Volltexte nach `auswertungen/`. Technische Abschnitte neu gefasst: §0 (git pull, Commit und Push als Pflicht), §2 (CSV statt Notion-Aufrufe, Prüfskript statt `parent`-Kontrolle), §8 (Auswertungen als Markdown), §9, §11 (komplett), §12 (komplett). **Alle inhaltlichen Regeln bleiben unverändert.** Notion bleibt als Archiv stehen. |
 | 2026-10-21 | 1.24 | Trainingstracking vereinfacht (Abschnitt 6): keine laufende Kraftauswertung, keine Nachfragen nach fehlenden Angaben, abschließende Liste der vier verbleibenden Meldeanlässe. Gewicht, BIA, Übungskatalog und Nachschlagepflicht bleiben unverändert. |
 | 2026-10-17 | 1.23 | Nachschlagepflicht vor jedem Trainingseintrag und Regeln dazu, was in eine Notiz gehört (beide Abschnitt 6). Anlass: Seitheben Kabelzug wurde als neue Reihe eingetragen, obwohl die Reihe seit dem 11.09. bestand. |

@@ -232,9 +232,9 @@ Einheiten geklärt.
 3. **Bizeps Curls am 15.10. bei der Schwester: normal oder Preacher?**
    Als normale Curls eingetragen (11,25 kg passt zur 10-kg-Reihe, die
    Preacher-Reihe läuft mit 7,5 kg).
-4. **Butterfly 13.10. mit 60 statt 65 kg** — Absicht, oder hat sich die
-   Scheibenbestückung geändert? 65 kg galt laut Notiz vom 18.09. als
-   Maschinenmaximum.
+4. **Butterfly 13.10. mit 60 statt 65 kg** — Absicht? Geklärt ist
+   inzwischen nur die Bestückung: seit spätestens 28.10. neue, schmalere
+   Platten (Angabe Simon 30.10.), 65 kg pro Seite sind kein Maximum mehr.
 5. **Cable Flies 17.10.: bleibt die neue Technik?** Wenn ja, bleibt die
    eigene Reihe. Wenn es ein Versuch war, gehören die drei Zeilen zurück
    zu `Cable Flies stehend`.

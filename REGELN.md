@@ -407,7 +407,7 @@ außer die Last liegt deutlich unter dem hier notierten Wert.
 | Lat Pulldown Kabelzug neutral schulterbreit | Schwester | Kabelzug | **55 kg** (am 25.09. von 50 erhöht) | 2026-09-25 |
 | Rudern Kabel neutral schulterbreit | Schwester | Kabelzug | 50 kg | 2026-09-22 |
 | Rudern Kabel enger Griff | Freundin *(angenommen)* | Kabelzug | **noch keins** (02.10. ohne Werte erfasst) | 2026-10-02 |
-| Butterfly | Freundin | Maschine | **65 kg pro Seite** | 2026-09-18 |
+| Butterfly | Freundin | Maschine | **70 kg pro Seite** (140 kg gesamt; neue schmalere Platten, 65 kg ist kein Maximum mehr) | 2026-10-28 |
 | Reverse Butterfly Kabelzug | Schwester | Kabelzug | 5–6,15 kg pro Seite | 2026-10-02 |
 | Bankdrücken frei Langhantel | Freundin | Langhantel frei | 30 kg pro Seite | 2026-09-09 |
 | Trizepsdrücken Kabel | Freundin | Kabelzug | 25 kg pro Seite | 2026-09-09 |
@@ -427,7 +427,7 @@ gemeldet (neu 2026-10-04).
 
 **Drei Sonderfälle in dieser Tabelle:**
 
-- **Butterfly Freundin.** Am 01.09. mit 55 kg pro Seite erfasst (ohne
+- **Butterfly Freundin.** **Stand 30.10.2026: Simon hat neue, schmalere Platten — das Maximum von 65 kg pro Seite gilt nicht mehr.** Am 28.10. liefen 70 kg pro Seite (140 kg gesamt). Was folgt, ist die Vorgeschichte. Am 01.09. mit 55 kg pro Seite erfasst (ohne
   Sätze und Wdh) — als Vergleichsbasis ohnehin wertlos. Am 09.09. wurden
   66 bzw. 70 kg pro Seite eingetragen; das waren **Fehleinträge**, wie
   sich am 18.09. herausstellte: mit den aktuellen Scheiben an dieser
@@ -1534,6 +1534,7 @@ gehört dann in die offenen Punkte von `STAND.md`.
 
 | Datum | Version | Änderung |
 |---|---|---|
+| 2026-10-30 | 1.27 | §3: Butterfly Freundin — neue schmalere Platten (Angabe Simon 30.10.), das Maschinenmaximum von 65 kg pro Seite gilt nicht mehr. Arbeitsgewicht auf 70 kg pro Seite (140 kg gesamt, 28.10.). |
 | 2026-10-24 | 1.26 | §11: Zeilenende beim Schreiben ist CRLF (`lineterminator="\r\n"`), nicht `"\n"` — die Dateien waren immer CRLF, die alte Angabe hatte gemischte Zeilenenden erzeugt. 17 Zeilen vom 22.–24.10. vereinheitlicht, inhaltlich unverändert. |
 | 2026-10-21 | 1.25 | **Umzug von Notion in das GitHub-Repo `simonroderich/fitness-tracker`** (Entscheidung Simon: Notion zu langsam). Alle sechs Tabellen vollständig als CSV nach `daten/` übernommen (Training 471, Ernährung 400, Gewicht 50, Merkzettel 38, Festwerte 16, Auswertungen 5 Zeilen; Zählung gegen Notion geprüft), die fünf Review-Volltexte nach `auswertungen/`. Technische Abschnitte neu gefasst: §0 (git pull, Commit und Push als Pflicht), §2 (CSV statt Notion-Aufrufe, Prüfskript statt `parent`-Kontrolle), §8 (Auswertungen als Markdown), §9, §11 (komplett), §12 (komplett). **Alle inhaltlichen Regeln bleiben unverändert.** Notion bleibt als Archiv stehen. |
 | 2026-10-21 | 1.24 | Trainingstracking vereinfacht (Abschnitt 6): keine laufende Kraftauswertung, keine Nachfragen nach fehlenden Angaben, abschließende Liste der vier verbleibenden Meldeanlässe. Gewicht, BIA, Übungskatalog und Nachschlagepflicht bleiben unverändert. |

@@ -203,6 +203,14 @@ dritten Sätze der Handgelenk-Curls vom 13.10.
 Muskeln aufbauen, Fett von ihnen runter — **Muskelmasse hat Vorrang vor
 Tempo.** Sixpack wäre schön, notfalls später. Details: REGELN §3.
 
+**Zwischenziel seit 04.11.2026 (Ansage Simon):** in drei Wochen, also bis
+etwa 25.11., noch einmal **2–3 kg** verlieren. Ausgangswert: letzte Wiegung
+82,10 kg am 30.10.; das Gewicht stand von Ende September bis dahin praktisch
+still. Einordnung bei der Ansage: 2 kg sind realistisch (ein Teil davon
+Wasser und Glykogen), 3 kg wären rund 1,2 %/Woche und damit das doppelte der
+0,6-%-Grenze — Muskelmasse hat weiter Vorrang (REGELN §3). Hebel laut
+Simon: sehr sättigendes, kalorienarmes Abendessen.
+
 KFA-Einordnung: es gilt die **Bandbreite 16–19 %** (Entscheidung
 24.09.), nicht der Waagenwert. Eine zweite Caliper-Messung oder eine
 DEXA würde daraus wieder eine Zahl machen.

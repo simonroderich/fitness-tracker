@@ -252,8 +252,9 @@ Einheiten geklärt.
    Simon zweimal gefragt, nie beantwortet.
 8. Stangengewicht der freien Langhantel bei der Freundin (20 kg
    Olympiastange, 10 kg, anderes?). Ohne das ist die Gesamtlast beim
-   freien Bankdrücken nicht ableitbar; dasselbe gilt für alle geführten
-   Langhantelübungen.
+   freien Bankdrücken nicht ableitbar. Für die geführte Langhantel bei der
+   Schwester nennt Simon am 09.11. **20 kg** Stange (Nenngewicht; ob die
+   Führung ein Gegengewicht hat, ist offen).
 9. Kabelstation bei der Freundin: zwei getrennte Türme oder einer mit
    zwei Griffen? Simon gibt dort „pro Seite" an. Auffällig: Rudern enger
    Griff und Lat Pulldown breiter Griff laufen beide mit genau 105 kg.

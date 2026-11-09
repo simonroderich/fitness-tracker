@@ -1136,7 +1136,11 @@ Schreibvarianten.
 - `Last gesamt kg` = tatsächliche Gesamtlast, wenn sauber ableitbar
   (z. B. 20 pro Seite an zwei Kabeln = 40). Sonst leer + Grund in `Notiz`.
 - Geführte Stangen haben ein unbekanntes Eigengewicht — **geführt wird
-  nie gegen frei verglichen.** Dasselbe gilt für freie Langhanteln mit
+  nie gegen frei verglichen.** *Stand 09.11.2026: Simon gibt die Stange
+  der geführten Langhantel bei der Schwester mit **20 kg** an. Das ist das
+  Nenngewicht; ob die Führung ein Gegengewicht hat, ist nicht geklärt, die
+  effektive Last kann darunter liegen. `Last gesamt kg` wird deshalb
+  weiterhin nicht rückwirkend befüllt.* Dasselbe gilt für freie Langhanteln mit
   unbekanntem Stangengewicht (Gym Freundin, siehe Abschnitt 3).
 - **Bei Kurzhantelübungen immer nachfragen, ob die Zahl pro Hantel oder
   gesamt gemeint ist** (neu 2026-10-04). *Anlass: 39 kg beim
@@ -1534,6 +1538,7 @@ gehört dann in die offenen Punkte von `STAND.md`.
 
 | Datum | Version | Änderung |
 |---|---|---|
+| 2026-11-09 | 1.28 | §6 Gewichtsangaben: Stange der geführten Langhantel bei der Schwester laut Simon 20 kg (Nenngewicht, Gegengewicht ungeklärt). |
 | 2026-10-30 | 1.27 | §3: Butterfly Freundin — neue schmalere Platten (Angabe Simon 30.10.), das Maschinenmaximum von 65 kg pro Seite gilt nicht mehr. Arbeitsgewicht auf 70 kg pro Seite (140 kg gesamt, 28.10.). |
 | 2026-10-24 | 1.26 | §11: Zeilenende beim Schreiben ist CRLF (`lineterminator="\r\n"`), nicht `"\n"` — die Dateien waren immer CRLF, die alte Angabe hatte gemischte Zeilenenden erzeugt. 17 Zeilen vom 22.–24.10. vereinheitlicht, inhaltlich unverändert. |
 | 2026-10-21 | 1.25 | **Umzug von Notion in das GitHub-Repo `simonroderich/fitness-tracker`** (Entscheidung Simon: Notion zu langsam). Alle sechs Tabellen vollständig als CSV nach `daten/` übernommen (Training 471, Ernährung 400, Gewicht 50, Merkzettel 38, Festwerte 16, Auswertungen 5 Zeilen; Zählung gegen Notion geprüft), die fünf Review-Volltexte nach `auswertungen/`. Technische Abschnitte neu gefasst: §0 (git pull, Commit und Push als Pflicht), §2 (CSV statt Notion-Aufrufe, Prüfskript statt `parent`-Kontrolle), §8 (Auswertungen als Markdown), §9, §11 (komplett), §12 (komplett). **Alle inhaltlichen Regeln bleiben unverändert.** Notion bleibt als Archiv stehen. |
